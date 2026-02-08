@@ -1,0 +1,3 @@
+<input type="text"> 기본적인 텍스트박스
+<input type="password"> 비밀번호 입력
+<input type="submit">전송버튼
